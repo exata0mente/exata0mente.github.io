@@ -1,0 +1,14 @@
+---
+layout: post
+title: "[TeCL] Capítulo 5 - Exercício 43 - Calendário Gregoriano"
+date: '2016-11-27T15:02:00.001-08:00'
+author: Exata 0Mente
+tags:
+- Treinamento em Linguagem C
+modified_time: '2016-11-27T15:02:21.542-08:00'
+thumbnail: https://i.ytimg.com/vi/ga_eSwyJ_wc/0.jpg
+blogger_id: tag:blogger.com,1999:blog-7498010033595457742.post-5863159863557597126
+blogger_orig_url: https://exata0mente.blogspot.com/2016/11/tecl-capitulo-5-exercicio-43-calendario.html
+---
+
+Treinamento em Linguagem C - Viviane Mizrahi<br /><br /><b><u>Exercício 43</u>: Juliana para gregoriana: Escreva uma função que converta uma data juliana em data gregoriana.</b><br /><b><br />A função deverá encontrar o dia, mês e ano correspondente a data juliana que ela recebe como argumento e retornar um numero do tipo </b><i>long</i><b> no formato aaaammdd. O algoritmo é o seguinte:</b><br /><br /><b>&nbsp; B = DataJuliana + 68569<br />&nbsp; N = (4 * B) / 146097<br />&nbsp; B = B - ((146097 * N + 3) / 4)<br />&nbsp; K = 4000 * (B + 1) / 1461001<br />&nbsp; B = B - (1461 * K) / 4 + 31<br />&nbsp; J = (80 * B) / 2447<br />&nbsp; Dia = B - (2447 * J) / 80<br />&nbsp; B = (J / 11)<br />&nbsp; Mes = J + 2 - (12 * B)<br />&nbsp; Ano = 100 * (N - 49) + K + B</b><br /><br /><i><i><span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-size: small;"><a href="http://exata0mente.blogspot.com/2016/11/indice-do-blog.html"><span style="font-size: x-small;"><i>Voltar para o ín<span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">di<span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">ce</span></span></i></span></a></span></span></i></i><br /><br /><div class="separator" style="clear: both; text-align: center;"><iframe width="320" height="266" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/ga_eSwyJ_wc/0.jpg" src="https://www.youtube.com/embed/ga_eSwyJ_wc?feature=player_embedded" frameborder="0" allowfullscreen></iframe></div><br /><br /><i><i><span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-size: small;"><span style="font-size: x-small;"><i><span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp;</span></span></i></span></span></span></i></i><i>Código-fonte da resposta: <a href="http://adf.ly/1gB9m5" target="_blank">clique aqui</a></i><br />
