@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exercício 38 - Números Primo"
+title: Exercício 38 - Números Primo
 date: '2016-11-27T14:41:00.003-08:00'
 author: Exata0Mente
 tags:
