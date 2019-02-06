@@ -29,6 +29,9 @@ permalink: resp/:categories/:title
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+# google analytics
+google_analytics: UA-87661065-2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
