@@ -24,8 +24,8 @@ que inverta os caracteres de uma string. Por exemplo: se a string for "ABCDEF", 
 
 ### Referências úteis:
 
-biblioteca string.h - http://www.cplusplus.com/reference/cstring/  
-função strinset() - http://fresh2refresh.com/c-programming/c-strings/c-strnset-function/\
+biblioteca string.h - <http://www.cplusplus.com/reference/cstring/>  
+função strinset() - <http://fresh2refresh.com/c-programming/c-strings/c-strnset-function/>  
 Sintaxe protótipo de função: Página 112 do livro  
 Sintaxe definição de função: Página 114 do livro  
 Sintaxe scanf() para string: Página 201 do livro  
