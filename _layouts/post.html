@@ -35,6 +35,12 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.resposta %}
+    <a href="{{ page.link_resposta }}">Resposta</a> no GitHub
+  {% else %}
+    <a href="https://github.com/exata0mente/ResolucoesLivros">Resposta</a> no GitHub
+  {% endif %}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
