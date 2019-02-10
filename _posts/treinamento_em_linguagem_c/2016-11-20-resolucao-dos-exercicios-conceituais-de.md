@@ -13,12 +13,13 @@ categories:
 book_name: Treinamento em Linguagem C
 blogger_id: tag:blogger.com,1999:blog-7498010033595457742.post-7724394280978662700
 blogger_orig_url: https://exata0mente.blogspot.com/2016/11/resolucao-dos-exercicios-conceituais-de.html
-permalink: resp/:categories/:title
+resposta: TRUE
+link_resposta: https://github.com/exata0mente/ResolucoesLivros/blob/master/Programacao/Treinamento_em_Liguagem_C/Cap2/Exercicio1_15_25.c
 ---
 
 Resolução dos exercícios conceituais de 1 a 15 e 25, capítulo 2, do livro da Viviane Victorine Mizrahi, {{ page.book_name }}, 2ª ed.
 O capítulo 2 trata especificamente de operadores: aritméticos, relacionais, lógico e atribuição. Neste capítulo
-vemos também tabela de precedência dos operadores. As respostas desses exercícios estão em meu [github]().
+vemos também tabela de precedência dos operadores. As respostas desses exercícios estão em meu github (link no final da página).
 
 **Exercício 1**. Quais dos seguintes operadores são aritméticos?
 

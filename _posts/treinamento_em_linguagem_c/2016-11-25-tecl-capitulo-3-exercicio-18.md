@@ -13,6 +13,8 @@ categories:
 book_name: Treinamento em Linguagem C
 blogger_id: tag:blogger.com,1999:blog-7498010033595457742.post-6341389574521733016
 blogger_orig_url: https://exata0mente.blogspot.com/2016/11/tecl-capitulo-3-exercicio-18.html
+resposta: TRUE
+link_resposta: https://github.com/exata0mente/ResolucoesLivros/blob/master/Programacao/Treinamento_em_Liguagem_C/Cap3/Exercicio18.c
 ---
 
 **Exercício 18**: Escreva um programa que solicite um número entre 3 e 18 e calcule a probabilidade que esse número tem de sair ao se jogar três dados ao mesmo tempo. A probabilidade é calculada por meio da seguinte fórmula

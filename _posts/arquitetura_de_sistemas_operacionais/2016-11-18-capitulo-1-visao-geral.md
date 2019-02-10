@@ -4,11 +4,7 @@ title: Capítulo I - 1. Visão Geral
 date: '2016-11-18T09:27:00.003-08:00'
 author: Exata0Mente
 tags:
-- programação
-- linguagem C
-- matrizes
-- vetores
-- strings
+- sistemas operacionais
 categories:
 - arquitetura_de_sistemas_operacionais
 - cap1

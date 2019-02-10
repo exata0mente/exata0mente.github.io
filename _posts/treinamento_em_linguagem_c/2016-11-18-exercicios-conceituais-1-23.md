@@ -14,7 +14,8 @@ book_name: Treinamento em Linguagem C
 modified_time: '2016-11-24T11:32:39.353-08:00'
 blogger_id: tag:blogger.com,1999:blog-7498010033595457742.post-8616823830221479438
 blogger_orig_url: https://exata0mente.blogspot.com/2016/11/exercicios-conceituais-1-23.html
-permalink: resp/:categories/:title
+resposta: TRUE
+link_resposta: https://github.com/exata0mente/ResolucoesLivros/blob/master/Programacao/Treinamento_em_Liguagem_C/Cap1/conceitual_ex1_a_23.c
 ---
 
 Resolução dos exercícios conceituais de 1 a 23, capítulo 1, do livro da Viviane Victorine Mizrahi, {{ page.book_name }}, 2ª ed.
