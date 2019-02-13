@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Exata0mente - por Ricardo Bezerra
-email: exata0mente@example.com
+email: exata0mente@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog com resolução de exercícios de livros vistos no periodo acadêmico
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://exata0mente.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  exata0mente
 
