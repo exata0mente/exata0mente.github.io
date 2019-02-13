@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 24, 25 e 26 (Brincando com o printf())"
 date: '2016-11-18T10:23:00.002-08:00'
 author: Exata0Mente
-tags:
-- programacao
-- linguagem C
-- básico
+tags: [programacao, C, basico]
 categories:
 - treinamento_em_linguagem_c
 - cap1  
