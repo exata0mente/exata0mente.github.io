@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 19 - Inteiros entre a e b"
 date: '2016-11-27T14:04:00.001-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- comandos de decisão
+tags: [programacao, C, comandos_de_decisao]
 categories:
 - treinamento_em_linguagem_c
 - cap4

@@ -3,10 +3,7 @@ layout: post
 title: "Exercício de 1 a 17 - Comandos de decisão"
 date: '2016-11-27T13:53:00.005-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- comandos de decisão
+tags: [programacao, C, comandos_de_decisao]
 categories:
 - treinamento_em_linguagem_c
 - cap4

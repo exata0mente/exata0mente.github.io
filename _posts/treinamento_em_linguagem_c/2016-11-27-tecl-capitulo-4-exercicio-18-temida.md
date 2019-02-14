@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 18 - O menor inteiro"
 date: '2016-11-27T14:00:00.002-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- comandos de decisão
+tags: [programacao, C, comandos_de_decisao]
 categories:
 - treinamento_em_linguagem_c
 - cap4
