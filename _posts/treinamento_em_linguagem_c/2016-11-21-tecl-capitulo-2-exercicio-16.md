@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 16 - Operador lógico - Ano Bissexto"
 date: '2016-11-21T06:31:00.000-08:00'
 author: Exata0Mente
-tags:
-- programacao
-- linguagem C
-- operadores
+tags: [programacao, C, operadores]
 categories:
 - treinamento_em_linguagem_c
 - cap2  

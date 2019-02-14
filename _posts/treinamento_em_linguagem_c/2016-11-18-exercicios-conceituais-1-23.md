@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 1 a 23 (Conceitos Básicos)"
 date: '2016-11-18T06:45:00.006-08:00'
 author: Exata0Mente
-tags:
-- programacao
-- linguagem C
-- básico
+tags: [programacao, C, basico]
 categories:
 - treinamento_em_linguagem_c
 - cap1  

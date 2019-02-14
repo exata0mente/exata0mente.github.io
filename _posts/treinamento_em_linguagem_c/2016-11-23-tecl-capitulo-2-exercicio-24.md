@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 24 - Tabela ASCII, Maiúsculo para Minúsculo"
 date: '2016-11-23T07:33:00.000-08:00'
 author: Exata0Mente
-tags:
-- programacao
-- linguagem C
-- operadores
+tags: [programacao, C, operadores]
 categories:
 - treinamento_em_linguagem_c
 - cap2  

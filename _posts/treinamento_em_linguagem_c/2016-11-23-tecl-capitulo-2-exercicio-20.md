@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 20 - Prêmio Loteria"
 date: '2016-11-23T07:12:00.001-08:00'
 author: Exata0Mente
-tags:
-- programacao
-- linguagem C
-- operadores
+tags: [programacao, C, operadores]
 categories:
 - treinamento_em_linguagem_c
 - cap2  

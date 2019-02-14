@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 19 - Patos e Coelhos."
 date: '2016-11-23T05:47:00.002-08:00'
 author: Exata0Mente
-tags:
-- programacao
-- linguagem C
-- operadores
+tags: [programacao, C, operadores]
 categories:
 - treinamento_em_linguagem_c
 - cap2  

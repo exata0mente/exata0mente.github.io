@@ -3,10 +3,7 @@ layout: post
 title: "Exercício de 1 a 15 e 25 (Conceitos de operadores)"
 date: '2016-11-20T04:40:00.001-08:00'
 author: Exata0Mente
-tags:
-- programacao
-- linguagem C
-- operadores
+tags: [programacao, C, operadores]
 categories:
 - treinamento_em_linguagem_c
 - cap2  
