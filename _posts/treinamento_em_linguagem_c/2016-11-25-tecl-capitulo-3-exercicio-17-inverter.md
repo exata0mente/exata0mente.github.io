@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 17 - Inverter um número inteiro"
 date: '2016-11-25T04:44:00.002-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- laços
+tags: [programacao, C, lacos]
 categories:
 - treinamento_em_linguagem_c
 - cap3  

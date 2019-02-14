@@ -3,10 +3,7 @@ layout: post
 title: "Exercício 20 - A temida sequência de Fibonacci!"
 date: '2016-11-25T05:05:00.001-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- laços
+tags: [programacao, C, lacos]
 categories:
 - treinamento_em_linguagem_c
 - cap3  

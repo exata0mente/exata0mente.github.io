@@ -3,10 +3,7 @@ layout: post
 title:  Exercício de 1 a 13 (Conceitos de Laços)
 date: '2016-11-25T04:16:00.000-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- laços
+tags: [programacao, C, lacos]
 categories:
 - treinamento_em_linguagem_c
 - cap3  
