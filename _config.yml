@@ -14,13 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Exata0mente - por Ricardo Bezerra
-email: exata0mente@example.com
+email: exata0mente@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog com resolução de exercícios de livros vistos no periodo acadêmico
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://exata0mente.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  exata0mente
+github_username: exata0mente
+disqus:
+  shortname: exata0mente
 
 # Build settings
 markdown: kramdown
@@ -30,8 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 # google analytics
-google_analytics: UA-87661065-2
+google_analytics: UA-87661065-4
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
