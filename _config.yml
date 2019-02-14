@@ -32,7 +32,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 # google analytics
-google_analytics: UA-87661065-3
+google_analytics: UA-87661065-4
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
