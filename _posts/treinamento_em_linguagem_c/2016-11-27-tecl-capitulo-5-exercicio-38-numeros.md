@@ -3,10 +3,7 @@ layout: post
 title: Exercício 38 - Números Primo
 date: '2016-11-27T14:41:00.003-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- funções
+tags: [programacao, C, funcoes]
 categories:
 - treinamento_em_linguagem_c
 - cap5

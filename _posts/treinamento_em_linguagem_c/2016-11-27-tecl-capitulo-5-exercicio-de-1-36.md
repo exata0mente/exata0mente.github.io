@@ -3,10 +3,7 @@ layout: post
 title: Exercício de 1 a 37 (Conceitos de Funções)
 date: '2016-11-27T14:37:00.004-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- funções
+tags: [programacao, C, funcoes]
 categories:
 - treinamento_em_linguagem_c
 - cap5
