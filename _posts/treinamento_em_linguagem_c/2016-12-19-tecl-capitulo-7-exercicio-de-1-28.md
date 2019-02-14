@@ -3,12 +3,7 @@ layout: post
 title: Exercício de 1 a 28 (Conceitos de Matrizes)
 date: '2016-12-19T05:16:00.001-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- matrizes
-- vetores
-- strings
+tags: [programacao, C, matrizes, vetores, strings]
 categories:
 - treinamento_em_linguagem_c
 - cap7

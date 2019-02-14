@@ -2,12 +2,7 @@
 layout: post
 title: Exercício 35 - replace()
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- matrizes
-- vetores
-- strings
+tags: [programacao, C, matrizes, vetores, strings]
 categories:
 - treinamento_em_linguagem_c
 - cap7

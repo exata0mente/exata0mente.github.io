@@ -2,12 +2,7 @@
 layout: post
 title: Exercício 33 - strnset()
 date: '2017-01-19T05:16:00.000-08:00'
-tags:
-- programação
-- linguagem C
-- matrizes
-- vetores
-- strings
+tags: [programacao, C, matrizes, vetores, strings]
 categories:
 - treinamento_em_linguagem_c
 - cap7

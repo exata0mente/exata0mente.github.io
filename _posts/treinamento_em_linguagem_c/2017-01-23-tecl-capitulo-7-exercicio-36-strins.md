@@ -3,12 +3,7 @@ layout: post
 title: Exercício 36 - strins()
 date: '2017-01-23T12:20:00.000-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- matrizes
-- vetores
-- strings
+tags: [programacao, C, matrizes, vetores, strings]
 categories:
 - treinamento_em_linguagem_c
 - cap7

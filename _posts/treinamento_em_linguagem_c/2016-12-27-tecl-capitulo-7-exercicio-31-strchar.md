@@ -3,12 +3,7 @@ layout: post
 title: Exercício 31 - strchar()
 date: '2016-12-27T07:53:00.002-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- matrizes
-- vetores
-- strings
+tags: [programacao, C, matrizes, vetores, strings]
 categories:
 - treinamento_em_linguagem_c
 - cap7

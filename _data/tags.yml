@@ -18,3 +18,12 @@
 
 - slug: funcoes
   name: Funções
+
+- slug: matrizes
+  name: Matrizes
+
+- slug: strings
+  name: Strings
+
+- slug: vetores
+  name: Vetores

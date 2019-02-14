@@ -3,12 +3,7 @@ layout: post
 title: Exercício 29 - Minúsculo para Maiúsculo
 date: '2016-12-21T05:52:00.000-08:00'
 author: Exata0Mente
-tags:
-- programação
-- linguagem C
-- matrizes
-- vetores
-- strings
+tags: [programacao, C, matrizes, vetores, strings]
 categories:
 - treinamento_em_linguagem_c
 - cap7
