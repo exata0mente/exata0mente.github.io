@@ -7,17 +7,17 @@ permalink: /contribua/
 
 Esta é a parte mais importante do site, **a contribuição**. O intuito é criar uma comunidade que alimente o repositório com exercícios respondidos seja por vídeo, post externo, em fóruns, etc. Não há restrições quando o assunto é **ajudar**.
 
-Além disso este pode ser um grande passo para você começar a entender como é um trabalho colaborativo. Você pode também praticar seus conhecimentos em Git, GitHub, Jekyll, linguagens de programação, linguagens de marcação, divulgação de canal e diversos outros gatilhos possíveis.
+Além disso este pode ser um grande passo para você começar a entender como é um trabalho colaborativo. Você pode também praticar seus conhecimentos em [Git](https://git-scm.com/), [GitHub](https://github.com/), [Jekyll](https://jekyllrb.com/), linguagens de programação, linguagens de marcação, [divulgação de canal](https://www.youtube.com/channel/UCfm5J7qGMBgupvKddelZSSA) e diversos outros gatilhos possíveis.
 
 ## Com o quê eu contribuo?
 
 Você pode contribuir de várias formas. Vou listar algumas que estão sendo cruciais:
 
-* **Resolução de novos exercícios**: Comecei com exercícios de programação, passei para [banco de dados](), [estatística]() e até [machine learning](). O legal é pegar aquele livro da bibliografia do semestre que você está mandando bem, e postar as resoluções. Mande para a galera da sala e estimule a fazer o mesmo, porém com as matérias que eles vão melhor.
+* **Resolução de novos exercícios**: Comecei com exercícios de programação, passei para [banco de dados](https://exata0mente.com.br/resp/lista-exercicios-projeto-de-banco-de), [estatística](https://exata0mente.com.br/resp/lista-exercicios-estatistica-facil) e até [machine learning](https://exata0mente.com.br/resp/lista-exercicios-aprenda-mirecao-de). O legal é pegar aquele livro da bibliografia do semestre que você está mandando bem, e postar as resoluções. Mande para a galera da sala e estimule a fazer o mesmo, porém com as matérias que eles vão melhor.
 
-* **Revisão dos exercícios respondidos** : Sempre tem aquele `;` que a gente esquece né? Ou então aquele [exercício]() de [progressão aritimética]() que alguém usou um "`for` eterno". O importante é que a resposta esteja correta (obviamente) e compatível com o nível que a aplicação requisite. (*pointers* são legais, mas no basicão de vetores não precisa apelar né rs).
+* **Revisão dos exercícios respondidos** : Sempre tem aquele `;` que a gente esquece né? Ou então aquele [exercício](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) de [progressão aritimética](http://www.paulomarques.com.br/arq2-11.htm) que alguém usou um "`for` eterno". O importante é que a resposta esteja correta (obviamente) e compatível com o nível que a aplicação requisite. (*pointers* são legais, mas no basicão de vetores não precisa apelar né rs).
 
-* **Estrutura do Site**: Front End não é o [meu]() forte. A construção deste blog foi utilizando [Jekyll](), tema [minimal]() e hospedagem GitHub pages, então o visual pode não ser agradável a olhos mais especializados. Acha que consegue dar aquele tapa no site? Ajuda nois aee.
+* **Estrutura do Site**: Front End não é o meu forte. A construção deste blog foi utilizando Jekyll, tema [minimal](https://github.com/pages-themes/minimal) e hospedagem [GitHub pages](https://pages.github.com/), então o visual pode não ser agradável a olhos mais especializados. Acha que consegue dar aquele tapa no site? Ajuda nois aee.
 
 * **Criação de templates**: Templates são legais pra cacete! Dá pra fazer templates pra praticamente tudo! Temos templates para [contribuição](), [abertura de issues](). Podemos criar templates para novos posts, enfim, diversas coisas.
 
