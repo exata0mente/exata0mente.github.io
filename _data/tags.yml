@@ -27,3 +27,12 @@
 
 - slug: vetores
   name: Vetores
+
+- slug: banco_de_dados
+  name: Banco de Dados
+
+- slug: modelagem_BD
+  name: Modelagem de Banco de Dados
+
+- slug: conceitos
+  name: Conceitos
