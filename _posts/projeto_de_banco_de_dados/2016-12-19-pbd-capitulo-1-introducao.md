@@ -3,10 +3,7 @@ layout: post
 title: Introdução
 date: '2016-12-19T09:33:00.001-08:00'
 author: Exata0Mente
-tags:
-- banco de dados
-- modelagem de banco de dados
-- conceitos
+tags: [banco_de_dados, modelagem_BD, conceitos]
 categories:
 - projeto_de_banco_de_dados
 - cap1
