@@ -9,6 +9,7 @@ categories:
 book_name: Arquitetura de Sistemas Operacionais
 blogger_orig_url: https://exata0mente.blogspot.com/2016/11/lista-exercicios-arquitetura-de.html
 blogger_id: tag:blogger.com,1999:blog-7498010033595457742.post-918969748778647447
+permalink: indice/livro/arquitetura_de_sistemas_operacionais
 ---
 Parte I Conceitos Básicos:
 

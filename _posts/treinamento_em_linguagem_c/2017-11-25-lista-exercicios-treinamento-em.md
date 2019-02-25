@@ -7,15 +7,13 @@ tags:
 - programação
 - linguagem C
 - funções
-categories:
-- treinamento_em_linguagem_c
-- cap5
 book_name: Treinamento em Linguagem C
 blogger_id: tag:blogger.com,1999:blog-7498010033595457742.post-7475621331836043474
 blogger_orig_url: https://exata0mente.blogspot.com/2016/11/tecl-capitulo-5-exercicio-39-conjectura.html
 resposta: FALSE
 blogger_id: tag:blogger.com,1999:blog-7498010033595457742.post-1626380014082023677
 blogger_orig_url: https://exata0mente.blogspot.com/2016/11/lista-exercicios-treinamento-em.html
+permalink: indice/livro/treinamento_em_linguagem_c
 ---
 
 ### Capítulo 1
