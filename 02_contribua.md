@@ -17,13 +17,13 @@ Você pode contribuir de várias formas. Vou listar algumas que estão sendo cru
 
 * **Revisão dos exercícios respondidos** : Sempre tem aquele `;` que a gente esquece né? Ou então aquele [exercício](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) de [progressão aritimética](http://www.paulomarques.com.br/arq2-11.htm) que alguém usou um "`for` eterno". O importante é que a resposta esteja correta (obviamente) e compatível com o nível que a aplicação requisite. (*pointers* são legais, mas no basicão de vetores não precisa apelar né rs).
 
-* **Estrutura do Site**: Front End não é o meu forte. A construção deste blog foi utilizando Jekyll, tema [minimal](https://github.com/pages-themes/minimal) e hospedagem [GitHub pages](https://pages.github.com/), então o visual pode não ser agradável a olhos mais especializados. Acha que consegue dar aquele tapa no site? Ajuda nois aee.
+* **Estrutura do Site**: *Front End* não é o meu forte. A construção deste blog foi utilizando Jekyll, tema [minimal](https://github.com/pages-themes/minimal) e hospedagem [GitHub pages](https://pages.github.com/), então o visual pode não ser agradável a olhos mais especializados. Acha que consegue dar aquele tapa no site? Ajuda nois aee.
 
-* **Criação de templates**: Templates são legais pra cacete! Dá pra fazer templates pra praticamente tudo! Temos templates para [contribuição](), [abertura de issues](). Podemos criar templates para novos posts, enfim, diversas coisas.
+* **Criação de templates**: Templates são legais pra cacete! Dá pra fazer templates pra praticamente tudo! Temos templates para [contribuição](https://github.com/exata0mente/exata0mente.github.io/tree/master/docs/CONTRIBUTING.md), [abertura de issues](https://github.com/exata0mente/exata0mente.github.io/tree/master/docs/ISSUE_TEMPLATE.md), [pull request](https://github.com/exata0mente/exata0mente.github.io/tree/master/docs/PULL_REQUEST_TEMPLATE.md). Podemos criar templates para novos posts, enfim, diversas coisas. Ter templates bem descritos facilita o trabalho de colaboração.
 
-* **Issues**: Vai ter [issues]() sim! Issue é a melhor forma de criar demandas, questionamentos, dúvidas, solicitações de melhorias, montar grupos, eventos, enfim, coisa pra cacete. Dê uma olhada nas [issues]() que temos em aberto, interaja com a comunidade, resolva problemas e comece a solidificar o *open source guy* que tem dentro de você.
+* **Issues**: Vai ter [issues](https://guides.github.com/features/issues/) sim! Issue é a melhor forma de criar demandas, questionamentos, dúvidas, solicitações de melhorias, montar grupos, eventos, enfim, coisa pra cacete. Dê uma olhada nas [issues](https://github.com/exata0mente/exata0mente.github.io/issues) que temos em aberto, interaja com a comunidade, resolva problemas e comece a solidificar o *open source guy* que tem dentro de você.
 
-* **Posts**: Teremos espaço aberto para criação de posts. A única coisa que pedimos é que sigam o nosso "[modelo mínimo]()".
+* **Posts**: Teremos espaço aberto para criação de posts. Basta criar a postagem e pronto. Não sabe como criar uma postagem? Dê uma olhada [nesse](https://willianjusten.com.br/perguntas-e-respostas-jekyll/) tutorial.
 
 ## Por onde eu começo?
 
