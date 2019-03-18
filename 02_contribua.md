@@ -29,9 +29,7 @@ Você pode contribuir de várias formas. Vou listar algumas que estão sendo cru
 
 Vamos lá!
 
-Primeiro de tudo é fazer um [fork]() do [repositório]().
-
-[//]: <> (**INSERIR AQUI COMO REALIZAR UM CLONE, FORK**)
+Escrevemos um post sobre [Como trabalhar colaborativamente utilizando o GitHub]({{ site.baseurl }}{% post_url manuais/2019-03-13-como-trabalhar-colaborativamente-utilizando-o-github %})
 
 Depois decida no que você vai ajudar:
 
