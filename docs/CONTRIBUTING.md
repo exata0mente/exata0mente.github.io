@@ -52,7 +52,10 @@ Este arquivos ficam no diretório [docs](docs/) e boa parte está associada à [
 
 ### Revisão das labels
 
-As [labels](https://github.com/exata0mente/exata0mente.github.io/labels), ou etiquetas, é um ponto chave neste ambiente colaborativo. Com elas vamos separar corretamente as issues abertas.
+As [labels](https://github.com/exata0mente/exata0mente.github.io/labels), ou etiquetas, são pontos-chaves neste ambiente colaborativo. Com elas vamos separar corretamente as issues abertas.
 
+### Correções de erros gramaticais
+
+Os famosos *typos*. Não preciza procurar muito para identificar erros gramaticais aqui. Sinta-se a vontade para propor correções
 
 *CONTRIBUTING inspirado no [guia](https://github.com/training-center/training-center.github.io/blob/master/CONTRIBUTING.md) do Atom*
