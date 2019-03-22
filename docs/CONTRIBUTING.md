@@ -10,6 +10,7 @@ Bom saber que veio até aqui! Ficamos todos felizes! Temos uma porção de coisa
  * [Resolução de Exercícios](#resolução-de-exercícios)
  * [Postagens temáticas](#postagens-temáticas)
 * [Criando templates](#criando-templates)
+* [Correções de erros gramaticais](#correções-de-erros-gramaticais)
 
 
 ## Como eu posso contriburir?
