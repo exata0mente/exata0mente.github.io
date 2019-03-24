@@ -9,6 +9,7 @@ Bom saber que veio até aqui! Ficamos todos felizes! Temos uma porção de coisa
 * [Gerando conteúdo](#gerando-conteúdo)
  * [Resolução de Exercícios](#resolução-de-exercícios)
  * [Postagens temáticas](#postagens-temáticas)
+ * [Um post por dia](#um-post-por-dia)
 * [Criando templates](#criando-templates)
 * [Correções de erros gramaticais](#correções-de-erros-gramaticais)
 
@@ -37,6 +38,18 @@ Se você está estudando um livro e mandando ver na resolução dos exercícios 
 Posts que possuam algum tema relacionado à tecnologia, de preferência em formato de série. Sabe aquele trabalho que o professor te pediu na escola e que fatalmente irá parar em alguma gaveta após a avaliação? Então, pode ser um portifólio para você!
 
 Antes de criar uma postagem, veja nossa documentação sobre como [contribuir com conteúdo]()
+
+#### Um post por dia
+
+Esta é uma iniciativa muito legal da galera do [front-end br](https://github.com/frontendbr/). A idéia é estimular a comunidade a realizar mais posts, baseado no lema de [#1postpordia](https://willianjusten.com.br/um-post-por-dia/).
+
+No [repositório](https://github.com/frontendbr/poste-mais) eles abrem para que a comunidade, através de [issues](https://github.com/frontendbr/poste-mais/issues), sugira tópicos de posts.
+
+Caso você queira escrever sobre algo e está em dúvida sobre o que postar, dê uma olhadinha lá.
+
+Mas vale a [citação](https://github.com/frontendbr/poste-mais#lembrando)
+
+> A ideia do repositório [poste mais] é aumentar o número de postagens, não importa a frequência delas. Escreva conforme seu tempo. Mais importante do que quantidade, é a qualidade das postagens.
 
 ### Criando templates
 
