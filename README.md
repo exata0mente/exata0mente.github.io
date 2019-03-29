@@ -1,3 +1,6 @@
+![Licença](https://img.shields.io/github/license/exata0mente/exata0mente.github.io.svg)
+![Issues](https://img.shields.io/github/issues/exata0mente/exata0mente.github.io.svg)
+![Commits Mensais](https://img.shields.io/github/commit-activity/m/exata0mente/exata0mente.github.io.svg)
 # Exata0mente
 
 ## Somos um site colaborativo!
