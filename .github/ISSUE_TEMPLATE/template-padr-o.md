@@ -1,8 +1,8 @@
 ---
-name: 
-about: 
+name: Template Padrão
+about: Template padrão para abertura de ISSUES
 title: Custom template
-labels: 
+labels: ''
 assignees: exata0mente
 
 ---
