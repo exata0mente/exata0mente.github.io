@@ -146,7 +146,7 @@ Em nosso repositório temos vários exercícios respondidos mas nenhum conteúdo
 
 ## Contribuindo então
 
-Dá uma olhadinha no nosso [CONTRIBUTING.md](docs/CONTRIBUTING.md) e ajude a melhorá-lo.
+Dá uma olhadinha no nosso [CONTRIBUTING.md](.github/CONTRIBUTING.md) e ajude a melhorá-lo.
 
 ## Licensa
 
