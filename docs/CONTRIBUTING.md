@@ -55,10 +55,10 @@ Mas vale a [citação](https://github.com/frontendbr/poste-mais#lembrando)
 
 É muito importante deixar claro e bem documentado para a comunidade como ela pode contribuir e quais são as necessidades mínimas que devem ser atendidas. Para isso vamos criar templates para todas as interações possíveis que podem ocorrer. Listo algumas:
 
-- [README.md](README.md)
-- [LICENSE.md](LICENSE.md)
+- [README.md](../README.md)
+- [LICENSE.md](../LICENSE.md)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
-- [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md)
+- [ISSUE_TEMPLATE.md](../.github/ISSUE_TEMPLATE.md)
 - [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md)
 - [NEW_POST_TEMPLATES.md](NEW_POST_TEMPLATES.md)
 
