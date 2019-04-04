@@ -20,11 +20,11 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <p>
             {% for post_tag in post.tags %}
+              <div class="div_post_tag">
                 {{ post_tag }}
+              </div>
             {% endfor %}
-          </p>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
