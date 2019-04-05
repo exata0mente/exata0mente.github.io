@@ -35,6 +35,8 @@ plugins:
   - jekyll-sitemap
 # google analytics
 google_analytics: UA-87661065-4
+sass:
+  sass_dir: assets/css/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
